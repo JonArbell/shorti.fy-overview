@@ -82,9 +82,10 @@ Shorti.fy is a web application that allows users to convert long URLs into short
 - Stores URL mappings, expiration times, and user data.
 
 
-### ✅ **Caching:** Redis
+### ✅ **Caching:** Caffeine Cache  
 
-- Speeds up URL retrieval for fast redirections.
+- Improves performance by storing frequently accessed URLs in memory.  
+- Reduces database load and speeds up redirections.  
 
 
 ---
