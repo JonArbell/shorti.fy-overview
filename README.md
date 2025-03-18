@@ -1,5 +1,7 @@
 # Shorti.fy - URL Shortener (Under Development) | Custom Links, Expiration & Security
 
+
+## 📝 Overview
 Shorti.fy is a web application that allows users to convert long URLs into short, shareable links. It offers additional features like custom short URLs, expiration dates, click tracking, detailed visitor tracking (such as masked IP addresses, location, and device information), QR code generation, and password protection for private links. This allows users to add an extra layer of security to their shortened URLs by requiring a password before anyone can access them.
 
 
