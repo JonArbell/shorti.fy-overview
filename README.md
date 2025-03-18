@@ -93,7 +93,7 @@ Shorti.fy is a web application that allows users to convert long URLs into short
 ---
 
 
-## 🔗 Repositories
+## 📂 Repositories
 - **Frontend Repository:** [GitHub - Shorti.fy Frontend Repository](https://github.com/JonArbell/shorti.fy-frontend)  
 - **Backend Repository:** [GitHub - Shorti.fy Backend Repository](https://github.com/JonArbell/shorti.fy-backend)  
 
