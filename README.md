@@ -76,6 +76,10 @@ Shorti.fy is a web application that allows users to convert long URLs into short
 #### 📦 Database (PostgreSQL)
   - Stores URL mappings, expiration times, and user data.
 
+#### 🛢️ Testing Database (H2)
+  - In-memory database for testing and development.
+  - Speeds up testing without affecting the main database.
+
 #### ⚡ Caching (Caffeine Cache)
   - Enhances performance by storing frequently accessed URLs in memory.
   - Reduces database load and speeds up redirections.
