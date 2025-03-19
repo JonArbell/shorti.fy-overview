@@ -63,7 +63,7 @@ Shorti.fy is a web application that allows users to convert long URLs into short
 ---
 
 
-## 🛠 Tech Stack
+## 🛠 Technologies Used
 ### ✅ **Frontend:** Angular + Tailwind CSS
 
 - Interactive UI for shortening, managing, and tracking URLs.
