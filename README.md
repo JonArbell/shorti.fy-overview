@@ -1,4 +1,4 @@
-# Shorti.fy - URL Shortener (Under Development) | Custom Links, Expiration & Security
+# Shorti.fy - URL Shortener (In progress) | Custom Links, Expiration & Security
 
 
 ## 📝 Overview
