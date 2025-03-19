@@ -66,19 +66,19 @@ Shorti.fy is a web application that allows users to convert long URLs into short
 ### 🛠 Technologies Used
 
 #### 💻 Frontend (Angular + Tailwind CSS)
-- Interactive UI for URL management, authentication, and tracking.
-- Responsive design for seamless cross-device experience.
+  - Interactive UI for URL management, authentication, and tracking.
+  - Responsive design for seamless cross-device experience.
 
 #### 🔧 Backend (Spring Boot)
-- Secure authentication, URL shortening, and link expiration.
-- User management, password recovery, and analytics tracking.
+  - Secure authentication, URL shortening, and link expiration.
+  - User management, password recovery, and analytics tracking.
 
 #### 📦 Database (PostgreSQL)
-Stores URL mappings, expiration times, and user data.
+  - Stores URL mappings, expiration times, and user data.
 
 #### ⚡ Caching (Caffeine Cache)
-- Enhances performance by storing frequently accessed URLs in memory.
-- Reduces database load and speeds up redirections.
+  - Enhances performance by storing frequently accessed URLs in memory.
+  - Reduces database load and speeds up redirections.
 
 
 ---
