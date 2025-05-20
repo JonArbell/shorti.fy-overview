@@ -39,7 +39,7 @@ Shorti.fy is a web application that allows users to convert long URLs into short
 - **Track link clicks:** View how many times a short link has been accessed.  
 - **Other tracking:** Capture details like partially masked IP, device, and location.  
 
-### 📌 QR Code Generation (Coming Soon)
+### 📌 QR Code Generation
 - **Auto-generated QR Codes:** Every shortened URL automatically gets a QR code.  
 - **Downloadable QR Codes:** Users can download QR codes as images for easy sharing.  
 
