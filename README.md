@@ -88,6 +88,14 @@ Shorti.fy is a web application that allows users to convert long URLs into short
 ---
 
 
+
+## 🌍 Live
+- 🔗 **Shorti.fy:** [https://s-fy.netlify.app/](https://s-fy.netlify.app)
+
+
+---
+
+
 ## 📂 Repositories
 - **Frontend Repository:** [GitHub - Shorti.fy Frontend Repository](https://github.com/JonArbell/shorti.fy-frontend)  
 - **Backend Repository:** [GitHub - Shorti.fy Backend Repository](https://github.com/JonArbell/shorti.fy-backend)  
